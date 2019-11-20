@@ -1,7 +1,7 @@
 TRANUS
 ======
 
-	TRANUS is an integrated land use and transport modeling package. The system combines a state-of-the-art model of activities location and interaction, land use and the real estate market, with a comprehensive multimodal transport model. The combination of these two models produces the highest benefits, but the transport model may be used as a stand-alone component, especially for short-term projections. The main characteristics of the model are:
+TRANUS is an integrated land use and transport modeling package. The system combines a state-of-the-art model of activities location and interaction, land use and the real estate market, with a comprehensive multimodal transport model. The combination of these two models produces the highest benefits, but the transport model may be used as a stand-alone component, especially for short-term projections. The main characteristics of the model are:
 
 - Very flexible activities location and land use model, applicable to a wide range of scales and contexts.
 - Transport model to represent both passengers and freight movements and multiple interacting modes (intermodality).
